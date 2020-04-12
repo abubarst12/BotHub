@@ -68,7 +68,8 @@ class Config(object):
                     "pmpermit",
                     "left",
                     "autores",
-                    "hand",   
+                    "hand", 
+                    "notification", 
                     
     ]
     # Get your own API key from https://www.remove.bg/ or
